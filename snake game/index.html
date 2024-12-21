@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enhanced Snake Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="game-container">
+    <h1>Snake Game</h1>
+    <canvas id="gameCanvas" width="500" height="500"></canvas>
+    <div class="info">
+      <h2 id="score">Score: 0</h2>
+      <h3 id="level">Level: 1</h3>
+      <button id="startBtn">Start Game</button>
+    </div>
+  </div>
+  <audio id="foodSound" src="food.mp3"></audio>
+  <audio id="gameOverSound" src="gameover.mp3"></audio>
+  <script type="module" src="script.js"></script>
+</body>
+</html>

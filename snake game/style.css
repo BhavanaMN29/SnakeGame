@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(135deg, #1abc9c, #3498db);
+    animation: gradientAnimation 10s infinite alternate;
+    color: #ecf0f1;
+  }
+  
+  @keyframes gradientAnimation {
+    0% { background: linear-gradient(135deg, #1abc9c, #3498db); }
+    50% { background: linear-gradient(135deg, #9b59b6, #e74c3c); }
+    100% { background: linear-gradient(135deg, #f1c40f, #e67e22); }
+  }
+  
+  .game-container {
+    text-align: center;
+  }
+  
+  canvas {
+    border: 3px solid #34495e;
+    background-color: #ffffff;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    background-color: #e74c3c;
+    color: #ecf0f1;
+    border: none;
+    border-radius: 5px;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #c0392b;
+    transform: scale(1.1);
+  }
+  
+  .info {
+    margin-top: 10px;
+  }
+  
+  h2, h3 {
+    margin: 5px 0;
+  }
+  
