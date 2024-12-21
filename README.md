@@ -1,1 +1,2 @@
 # SnakeGame
+This project implements the classic Snake Game using AngularJS and HTML. It showcases how to use AngularJS for building interactive web applications with dynamic user interfaces and real-time updates. The game allows players to control a snake, collect food, and avoid collisions, all rendered on an HTML canvas. It highlights the integration of AngularJS for data binding, user interaction, and modular architecture.
