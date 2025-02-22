@@ -21,21 +21,26 @@ Database (optional for score tracking): MongoDB / Firebase
 
 🎨 Screenshots
 📌 Game Start Screen
+
 ![image](https://github.com/user-attachments/assets/7b2f10b7-b52e-45bb-9c63-2b7d991a703c)
 
 📌 In-Game View
+
 ![image](https://github.com/user-attachments/assets/085b6255-1c9b-40be-9d66-eb64c89020a9)
 
-📌 Game movement
-![image](https://github.com/user-attachments/assets/17cafdeb-4d79-49fb-8608-59858c4632a8)
-
 📌 Game Over Screen
+
 ![image](https://github.com/user-attachments/assets/014630a3-32f8-494f-bb6e-b47f1b8f56c2)
 
 🚀 Future Enhancements
 🔹 Multiplayer Mode – Play with friends in real-time.
+
 🔹 Dark Mode UI – Customize the theme for a modern look.
+
 🔹 Power-ups & Special Abilities – Introduce new gameplay mechanics.
+
 🔹 Leaderboard Integration – Compete with players globally.
+
 🔹 Social Sharing – Share your scores on social media.
+
 🔹 Touch Controls for Mobile – Enhance the experience for mobile users.
