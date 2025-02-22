@@ -1,5 +1,4 @@
 🐍 Snake Game using AngularJS & Node.js
-
 🚀 A modern take on the classic Snake Game built using AngularJS for dynamic UI and Node.js for efficient backend operations.
 
 📌 About the Project
