@@ -1,23 +1,36 @@
 🐍 Snake Game using AngularJS & Node.js
+
 🚀 A modern take on the classic Snake Game built using AngularJS for dynamic UI and Node.js for efficient backend operations.
 
 📌 About the Project
 This project is a classic Snake Game built using AngularJS for the front-end and Node.js for backend operations. It demonstrates the integration of modern web technologies to create an interactive gaming experience.
 
+
 🚀 Features
 🎮 Smooth Gameplay – Responsive design with intuitive controls.
+
 📡 Real-time Updates – Uses AngularJS two-way data binding for dynamic updates.
+
 🎨 Canvas Rendering – Efficient rendering for seamless animations.
+
 🔀 Modular Architecture – Organized using AngularJS controllers and services.
+
 🔗 API Integration – Potential for leaderboards and multiplayer support.
+
 📱 Mobile-Friendly – Responsive UI optimized for different screen sizes.
+
 🔊 Sound Effects – Optional immersive gaming experience.
+
 🏆 High Score Tracking – Saves player progress for competitive play.
+
 
 🏗️ Tech Stack
 Frontend: AngularJS, HTML5, CSS3, JavaScript
+
 Backend: Node.js, Express.js
+
 Database (optional for score tracking): MongoDB / Firebase
+
 
 🎨 Screenshots
 📌 Game Start Screen
