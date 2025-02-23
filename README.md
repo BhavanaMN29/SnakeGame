@@ -33,19 +33,23 @@
 
 
 -**Start game**
- ![start game](https://github.com/user-attachments/assets/9ebe2562-847e-4c7e-b008-5e69fd32e380)
+
+![start game](https://github.com/user-attachments/assets/9ebe2562-847e-4c7e-b008-5e69fd32e380)
 
 
 -**Snake movement 1**
- ![snake movement 1](https://github.com/user-attachments/assets/c48f68ee-7f0e-4393-a3dc-2cafbf57a32b)
+
+![snake movement 1](https://github.com/user-attachments/assets/c48f68ee-7f0e-4393-a3dc-2cafbf57a32b)
 
 
 -**Snake movement 2**
- ![snake movement 2](https://github.com/user-attachments/assets/f0335be7-d3a7-4b39-9a76-29be8f113d76)
+
+![snake movement 2](https://github.com/user-attachments/assets/f0335be7-d3a7-4b39-9a76-29be8f113d76)
 
 
 -**End Game**
- ![End game](https://github.com/user-attachments/assets/7db77c48-9b71-404d-b7f3-341ba1bea594)
+
+![End game](https://github.com/user-attachments/assets/7db77c48-9b71-404d-b7f3-341ba1bea594)
 
  
 
