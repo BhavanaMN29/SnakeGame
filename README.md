@@ -37,6 +37,6 @@
 - **Mobile Optimization** – Convert into a mobile app for Android/iOS
 
 ## 📊 Results
-Fast & Smooth Gameplay – Uses efficient event-driven programming
-Engaging User Experience – Interactive UI with responsive design
-Scalable Web Application – Follows best coding practices
+- Fast & Smooth Gameplay – Uses efficient event-driven programming
+- Engaging User Experience – Interactive UI with responsive design
+- Scalable Web Application – Follows best coding practices
